@@ -24,7 +24,7 @@
           <label>Password</label>
         </div>
         <button type="submit">WELCOME TO NETFLIX V-6.0</button>
-        <div class="form-help">
+        <div class="form-helpr">
           <div class="remember-me">
             <input type="checkbox" id="remember-me" />
             <label for="remember-me">Remember me</label>
